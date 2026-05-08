@@ -7,37 +7,36 @@ The goal of the project is to explore Netflix’s content library and extract me
 
 The dashboard enables interactive filtering and provides a clear visual understanding of how Netflix’s content catalog has evolved.
 
-🎯 Objectives
-
-Analyze Netflix dataset to understand content distribution patterns
-Compare Movies vs TV Shows across different years
-Identify top genres and their popularity trends
-Explore release patterns over time
-Build an interactive dashboard for easy business insights
+##🎯 Objectives
+- Analyze Netflix dataset to understand content distribution patterns  
+- Compare Movies vs TV Shows across different years  
+- Identify top genres and their popularity trends  
+- Explore release patterns over time  
+- Build an interactive dashboard for easy business insights 
 
 🛠️ Tools & Technologies
 
-Tableau (Data Visualization)
-Microsoft Excel / CSV Dataset
-Data Cleaning & Preprocessing (basic transformations)
-GitHub (Project hosting & documentation)
+- Tableau (Data Visualization)
+- Microsoft Excel / CSV Dataset
+- Data Cleaning & Preprocessing (basic transformations)
+- GitHub (Project hosting & documentation)
 
 📊 Dashboard Features
 
-📌 Interactive filters (Type, Genre, Year, Country)
-📈 Content trend analysis over time
-🎬 Movies vs TV Shows comparison
-🌍 Country-wise content distribution
-🎭 Genre-based breakdown of Netflix library
-📊 Key KPI indicators (Total Titles, Movies, TV Shows)
+- 📌 Interactive filters (Type, Genre, Year, Country)
+- 📈 Content trend analysis over time
+- 🎬 Movies vs TV Shows comparison
+- 🌍 Country-wise content distribution
+- 🎭 Genre-based breakdown of Netflix library
+- 📊 Key KPI indicators (Total Titles, Movies, TV Shows)
 
 🔍 Key Insights
 
-Netflix content has shown significant growth after 2015
-Movies dominate the platform compared to TV Shows
-Drama and Documentary are among the most common genres
-Content diversity has increased across countries over time
-Netflix’s library expansion accelerated in recent years
+- Netflix content has shown significant growth after 2015
+- Movies dominate the platform compared to TV Shows
+- Drama and Documentary are among the most common genres
+- Content diversity has increased across countries over time
+- Netflix’s library expansion accelerated in recent years
 
 ⚠️ Project Note
 
@@ -58,21 +57,12 @@ Integrate SQL-based data querying layer
 Extend analysis with Power BI version
 Add advanced storytelling dashboards with deeper insights
 
-📂 Repository Structure
+### 📁 Project Structure
 
-netflix-tableau-dashboard/
-│
-├── README.md
-├── dashboards/
-│   └── netflix_dashboard.twbx
-│
-├── images/
-│   ├── dashboard_overview.png
-│   ├── genre_analysis.png
-│   └── trend_analysis.png
-│
-└── data/
-    └── netflix_dataset.csv (optional)
+- 📊 `dashboards/` → Tableau workbook file  
+- 🖼️ `images/` → Dashboard screenshots  
+- 📂 `data/` → Dataset files   
+
 📌 Summary
 
 This project demonstrates my ability to work with real-world datasets, create interactive dashboards, and translate raw data into meaningful business insights using Tableau.
